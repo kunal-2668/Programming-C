@@ -101,30 +101,30 @@ int main()
 
     //switch case
 
-    // int day = 5;
+    int day = 5;
 
-    // switch (day)
-    // {
-    // case 1:
-    //     printf("monday");
-    //     break;
+    switch (day){
+        
+    case 1:
+        printf("monday");
+        break;
 
-    // case 2:
-    //     printf("tue");
-    //     break;
+    case 2:
+        printf("tue");
+        break;
 
-    // case 3:
-    //     printf("wed");
-    //     break;
+    case 3:
+        printf("wed");
+        break;
 
-    // case 4:
-    //     printf("thur");
-    //     break;
+    case 4:
+        printf("thur");
+        break;
 
-    // default:
-    //     printf("enter valid day");
-    //     break;
-    // }
+    default:
+        printf("enter valid day");
+        break;
+    }
 
     // loops
     // while
